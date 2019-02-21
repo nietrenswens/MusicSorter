@@ -2,8 +2,7 @@
 
 Created by: Rens Mulder or Unusu4l.
 
-Version: 1.0
+Version: 1.1
 
 Added:
-- Ability to rename files.
-- Check to make sure all the files are music files.
+- You are now able to undo the changes you have made.
